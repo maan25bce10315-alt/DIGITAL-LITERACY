@@ -27,7 +27,7 @@ The project includes five tasks, each based on different modules of digital lite
 
 🔗 Important Links
 
-GitHub Repository: (Add your link here)
+GitHub Repository: https://github.com/maan25bce10315-alt/DIGITAL-LITERACY
 
 Google Form Quiz: https://docs.google.com/forms/d/e/1FAIpQLSehMzmV_pAiWKvb4szG5NDmRTss-ux5VLa5UyT0r9bzQDukGQ/viewform?usp=header
 
